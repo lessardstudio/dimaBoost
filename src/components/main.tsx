@@ -12,7 +12,7 @@ const Main = () => {
                 className="rounded-3xl h-4"
                 />
                 <div className="flex flex-col gap-4 text">
-                    <div className="text-3xl">Буст от Димы деревянкина</div>
+                    <div className="text-3xl">Буст от Димы Деревянкина</div>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis possimus repellendus impedit ad id neque error sapiente, esse quisquam atque fugit. Ut delectus itaque at, aut aperiam dignissimos vero sapiente.
                 </div>
                 </div>
